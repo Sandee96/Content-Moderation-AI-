@@ -1,3 +1,15 @@
+## 👤 My Contribution
+
+This repository is a fork of a university group project developed as part of our academic coursework.
+
+**My role in this project included:**
+- Designing and implementing key backend features  
+- Working on AI integration and API handling  
+- Improving project structure and documentation  
+- Testing and debugging system functionality  
+
+This fork is maintained for my personal learning, and internship applications.
+
 # Content-Moderation-AI-
 
 # 🛡️ CEnSORX - AI Content Moderation Platform
